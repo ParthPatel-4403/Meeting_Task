@@ -16,11 +16,10 @@ Optional Speech-to-Text (STT) support is included for audio input.
     .
     ├── run.py
     ├── stt.py
-    ├── logic/
-    │   ├── extractor.py
-    │   ├── assignment.py
-    │   ├── parser.py
-    │   └── utils.py
+    ├── extractor.py
+    ├── assignment.py
+    ├── parser.py
+    ├── utils.py
     ├── sample_data/
     │   ├── team.json
     │   ├── sample_transcript.txt

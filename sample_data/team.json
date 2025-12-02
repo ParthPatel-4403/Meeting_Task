@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Sakshi",
+    "role": "Frontend Developer",
+    "skills": [
+      "react",
+      "javascript",
+      "ui",
+      "frontend",
+      "ui bugs"
+    ]
+  },
+  {
+    "name": "Mohit",
+    "role": "Backend Engineer",
+    "skills": [
+      "database",
+      "apis",
+      "performance optimization",
+      "backend"
+    ]
+  },
+  {
+    "name": "Arjun",
+    "role": "UI/UX Designer",
+    "skills": [
+      "figma",
+      "user flows",
+      "mobile design",
+      "ui",
+      "ux",
+      "design"
+    ]
+  },
+  {
+    "name": "Lata",
+    "role": "QA Engineer",
+    "skills": [
+      "testing",
+      "automation",
+      "quality assurance",
+      "qa",
+      "unit tests"
+    ]
+  }
+]

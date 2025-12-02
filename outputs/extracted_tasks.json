@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "description": "Sakshi, we need someone to fix the critical login bug that users reported yesterday.",
+    "assigned_to": "Sakshi",
+    "deadline": "",
+    "priority": "Critical",
+    "dependencies": "",
+    "inferred_skills": [
+      "qa",
+      "frontend",
+      "javascript",
+      "react",
+      "ui",
+      "testing"
+    ]
+  },
+  {
+    "id": 2,
+    "description": "This needs to be done by tomorrow evening since it's blocking users.",
+    "assigned_to": "Unassigned",
+    "deadline": "tomorrow evening",
+    "priority": "Critical",
+    "dependencies": "",
+    "inferred_skills": []
+  },
+  {
+    "id": 3,
+    "description": "We should tackle this by end of this week, it's affecting the user experience.",
+    "assigned_to": "Unassigned",
+    "deadline": "end of this week",
+    "priority": "Medium",
+    "dependencies": "",
+    "inferred_skills": []
+  },
+  {
+    "id": 4,
+    "description": "And we need to update the API documentation before Friday's release - this is high priority.",
+    "assigned_to": "Mohit",
+    "deadline": "friday",
+    "priority": "High",
+    "dependencies": "",
+    "inferred_skills": [
+      "backend",
+      "apis",
+      "documentation"
+    ]
+  },
+  {
+    "id": 5,
+    "description": "Oh, and someone should design the new onboarding screens for the next sprint.",
+    "assigned_to": "Arjun",
+    "deadline": "",
+    "priority": "Medium",
+    "dependencies": "",
+    "inferred_skills": [
+      "ux",
+      "ui",
+      "design"
+    ]
+  },
+  {
+    "id": 6,
+    "description": "Arjun, didn't you work on UI designs last month?",
+    "assigned_to": "Arjun",
+    "deadline": "",
+    "priority": "Medium",
+    "dependencies": "",
+    "inferred_skills": [
+      "ux",
+      "ui",
+      "design"
+    ]
+  },
+  {
+    "id": 7,
+    "description": "One more thing - we need to write unit tests for the payment module.",
+    "assigned_to": "Lata",
+    "deadline": "",
+    "priority": "Medium",
+    "dependencies": "",
+    "inferred_skills": [
+      "backend",
+      "qa",
+      "testing"
+    ]
+  },
+  {
+    "id": 8,
+    "description": "This depends on the login bug fix being completed first, so let's plan this for Wednesday.",
+    "assigned_to": "Sakshi",
+    "deadline": "wednesday",
+    "priority": "Medium",
+    "dependencies": "",
+    "inferred_skills": [
+      "qa",
+      "frontend",
+      "javascript",
+      "react",
+      "ui",
+      "testing"
+    ]
+  }
+]
